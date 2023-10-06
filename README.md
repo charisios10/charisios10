@@ -1,3 +1,3 @@
 ✨About me✨
 ---
-🚀Hi, i am charisios and i am a developer and a content creator!🗨️ I love to make discord.js bots and php websites and i am a system administrator🖥️, i self host apps like uptime kuma, pterodactyl panel and more!😁
+🚀Hi, i am charisios and i am a developer! I am content creator and a web developer and i am very good as system administrator🖥️, i self host apps like uptime kuma, hestia panel and more!😁
