@@ -1,3 +1,3 @@
-✨About me✨
----
-🚀Hi, i am charisios and i am a developer! I am content creator and a web developer and i am very good as system administrator🖥️, i self host apps like uptime kuma, hestia panel and more!😁
+# Charisios Charisiadis
+
+🌐 Hello, I'm Charisios Charisiadis, a web developer based in Greece. With two years of experience post-high school, I specialize in web development, blending technical proficiency with a keen eye for UI/UX design. Beyond coding, I share my gaming exploits on YouTube, 🎮 and in the offline realm, I'm an enthusiast for cycling 🚴 and the ancient Greek self-defense art of Pagkratio. I draw inspiration from music 🎶 and thrive in fostering creativity within a positive work environment. While I don't strictly adhere to a specific development philosophy, my work is driven by an insatiable curiosity for the ever-evolving tech landscape. Always open to new challenges, collaborations, and opportunities, I'm excited to contribute my skills to impactful projects in the dynamic world of technology. 🚀
