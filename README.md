@@ -1,2 +1,4 @@
 # ✨Charisios Charisiadis✨
-Hello, I'm Charisios Charisiadis, Server Administrator based in Greece. With two years of experience post-high school, I specialize in Server Administrating, blending technical proficiency with a keen eye for Web developing. Beyond coding, I share my gaming exploits on YouTube, and in the offline realm, I'm an enthusiast for cycling and the ancient Greek self-defense art of Pagkratio. I draw inspiration from music and thrive in fostering creativity within a positive work environment. While I don't strictly adhere to a specific development philosophy, my work is driven by an insatiable curiosity for the ever-evolving tech landscape. Always open to new challenges, collaborations, and opportunities, I'm excited to contribute my skills to impactful projects in the dynamic world of technology.
+Hello! I'm Charisios, a passionate developer with a love for creating innovative solutions.
+			With a background in Web Developement, I specialize in Server Administration. When I'm not
+			coding, you can find me playing games or maybe traveling!.
